@@ -1,0 +1,10 @@
+C:\Users\Nirosha\source\repos\NewCalculator\NewCalculator\bin\Debug\NewCalculator.exe.config
+C:\Users\Nirosha\source\repos\NewCalculator\NewCalculator\bin\Debug\NewCalculator.exe
+C:\Users\Nirosha\source\repos\NewCalculator\NewCalculator\bin\Debug\NewCalculator.pdb
+C:\Users\Nirosha\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.csproj.AssemblyReference.cache
+C:\Users\Nirosha\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.Form1.resources
+C:\Users\Nirosha\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.Properties.Resources.resources
+C:\Users\Nirosha\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.csproj.GenerateResource.cache
+C:\Users\Nirosha\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nirosha\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.exe
+C:\Users\Nirosha\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.pdb
